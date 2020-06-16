@@ -1,4 +1,4 @@
 # practice
 
 ## Hello
-RIkaz är trash
+RImaz är trash
